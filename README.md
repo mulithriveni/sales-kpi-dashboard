@@ -34,7 +34,7 @@ It helps in tracking and analyzing key business performance metrics like sales, 
 ---
 
 ## 📷 Dashboard Preview
-(Add your screenshot here)
+(SS1.png)
 
 ---
 
